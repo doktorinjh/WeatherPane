@@ -30,6 +30,10 @@ Change Log (For my own sanity):
 
 
 # To Install:
-Copy the WU_Bridge_GitHub to the Arduino Yun's main directory (or anywhere else you'd like to run the files, like from an SD card). The WU_Variables_GitHub file is an example of what the Arduino should produce, if everything is connected and working well. The Variables file is what the sketch reads and how it updates the display. You will need a WeatherUnderground API Key and enter it in Line 5 of the Bridge file. The Bridge file is setup to get your location from your IP address. If you want a specific weather station, you can enter that on Line 5. More information about that can be found here: https://www.wunderground.com/weather/api/d/docs
+Copy WU_Bridge_GitHub to the Arduino Yun's main directory (or anywhere else you'd like to run the files, like from an SD card). The WU_Variables_GitHub file is an example of what the Arduino should produce, if everything is connected and working well. The Variables file is what the sketch reads and how it updates the display. 
+
+You will need a WeatherUnderground API Key and enter it in Line 5 of the Bridge file. The Bridge file is setup to get your location from your IP address. If you want a specific weather station, you can enter that on Line 5. More information about that can be found here: https://www.wunderground.com/weather/api/d/docs
 
 For this code to work with your LED setup, you will need to have your 0 LED position starting in the upper left corner of your display. If it is in any other corner, then you will have to redo all of the icons, etc.
+
+If you'd like to buy a face plate file directly from Ponoko, you can do that here: https://www.ponoko.com/showroom/WeatherPane Otherwise, examples are also provided. 
