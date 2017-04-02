@@ -35,8 +35,8 @@ You will need a WeatherUnderground API Key and enter it in Line 5 of the Bridge 
 
 For this code to work with your LED setup, you will need to have your 0 LED position starting in the upper left corner of your display. If it is in any other corner, then you will have to redo all of the icons, etc.
 
-#Face Plate
+# Face Plate
 If you'd like to buy a face plate file directly from Ponoko, you can do that here: https://www.ponoko.com/showroom/WeatherPane Otherwise, examples are also provided. 
 
-#3D Files
+# 3D Files
 There are 4 .stl files that will allow you to print the partitions needed to keep the lights from polluting the other icons. They were made for a Wanhao i3 v1 (or a MonoPrice MakerSelect) that has a bed size of 200mm x 200mm. You'll have to glue the partitions together after they've been printed.
